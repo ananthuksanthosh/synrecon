@@ -1,6 +1,3 @@
-Yes — below is the **entire README in one single copy-paste block**. Copy everything from `<div align="center">` through the final `</div>` directly into `README.md`.
-
-````markdown
 <div align="center">
 
 # ⚡ SYN RECON
